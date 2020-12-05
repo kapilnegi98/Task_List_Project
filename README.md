@@ -1,1 +1,1 @@
-# Task_List_Project
+# Task List App with pure JavaScript (No frameworks or libraries)
